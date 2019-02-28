@@ -8,3 +8,4 @@ tsc -w
 
 Levantar servidor
 nodemon dist/
+node dist
